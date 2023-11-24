@@ -1,4 +1,4 @@
-# aitools.fyi Black Friday and Cyber Monday Deals
+# aitools.fyi Black Friday and Cyber Monday Deals 2023
 
 This is a curated list of Black Friday and Cyber Monday deals for best AI tools! For more deals, check out [aitools.fyi Black Friday Sale](https://aitools.fyi/deals).
 
@@ -14,4 +14,4 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 | Murf AI       | Go from text to speech with a versatile AI voice generator.                                                                                                                                   | [25% off on all yearly plans, including upgrades from monthly to yearly and yearly to higher yearly plans INCLUDING ENTERPRISE!](https://get.murf.ai/388yfpqwvwp5) | BLACK25       |
 | SocialBee     | Your AI-Powered Social Media Manager                                                                                                                                                          | [Get 70% OFF on monthly plan for 3 months and 30% OFF yearly plan.](https://get.socialbee.io/wcw8ya21lixa-blackriday2023)                                          | SOCIALBEEBF23 |
 
-Please open a PR to submit your deal.
+Please open a PR to submit your deal to this list.
