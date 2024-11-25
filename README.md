@@ -4,6 +4,7 @@ This is a curated list of Black Friday and Cyber Monday deals for best AI tools!
 
 | Tool | Description | Deal | Promo Code |
 |------|------------|------|------------|
+| Chatsimple | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better. | [50% OFF for 1 year or for the first three months of monthly plans](https://www.chatsimple.ai/?via=aitools-fyi) | FRIDAY50 |
 | Munch | Extract the most engaging and impactful clips from your long-form videos using Munch, the #1 AI video repurposing platform | [30% OFF on all annual plans](https://www.getmunch.com/?ref=aitools.fyi&utm_source=aitools.fyi&utm_campaign=aitools.fyi&utm_medium=sponsorship) | BF30 |
 | trimmr.ai | Turn your long videos into shorts. Instantly repurpose and edit content, powered by AI | [50% OFF forever](https://www.trimmr.ai/app?ref=aitools.fyi&utm_source=aitools.fyi&utm_campaign=black_friday&utm_medium=deals) | BLKFRI50 |
 | PDFPeer | Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Ask questions, get summary, find things quickly, and lots more. | [50% OFF on all unlimited plans](https://pdfpeer.com/?ref=aitools.fyi&utm_source=aitools.fyi&utm_campaign=aitools.fyi&utm_medium=sponsorship) | BF50 |
