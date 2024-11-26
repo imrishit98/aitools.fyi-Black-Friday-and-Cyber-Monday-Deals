@@ -1,5 +1,7 @@
 # aitools.fyi Black Friday and Cyber Monday Deals 2024
 
+![aitools.fyi Black Friday](black-friday.png)
+
 This is a curated list of Black Friday and Cyber Monday deals for best AI tools! For more deals, check out [aitools.fyi Black Friday Sale](https://aitools.fyi/deals) or [get all deals](https://aitools.fyi/black-friday).
 
 | Tool | Description | Deal | Promo Code |
